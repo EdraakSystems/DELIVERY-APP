@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Pickkup.iml" filepath="$PROJECT_DIR$/.idea/modules/Pickkup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Pickkup.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Pickkup.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Pickkup.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Pickkup.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Pickkup.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Pickkup.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Pickkup.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Pickkup.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1059584937/Pickkup.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1059584937/Pickkup.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1059584937/Pickkup.react-native-async-storage_async-storage.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1059584937/Pickkup.react-native-async-storage_async-storage.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1059584937/Pickkup.react-native-async-storage_async-storage.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1059584937/Pickkup.react-native-async-storage_async-storage.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1059584937/Pickkup.react-native-async-storage_async-storage.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1059584937/Pickkup.react-native-async-storage_async-storage.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1460006831/Pickkup.react-native-clipboard_clipboard.iml" filepath="$PROJECT_DIR$/.idea/modules/1460006831/Pickkup.react-native-clipboard_clipboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1460006831/Pickkup.react-native-clipboard_clipboard.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1460006831/Pickkup.react-native-clipboard_clipboard.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1460006831/Pickkup.react-native-clipboard_clipboard.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1460006831/Pickkup.react-native-clipboard_clipboard.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1460006831/Pickkup.react-native-clipboard_clipboard.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1460006831/Pickkup.react-native-clipboard_clipboard.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-535857437/Pickkup.react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/-535857437/Pickkup.react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-535857437/Pickkup.react-native-device-info.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-535857437/Pickkup.react-native-device-info.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-535857437/Pickkup.react-native-device-info.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-535857437/Pickkup.react-native-device-info.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-535857437/Pickkup.react-native-device-info.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-535857437/Pickkup.react-native-device-info.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1258510364/Pickkup.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1258510364/Pickkup.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1258510364/Pickkup.react-native-gesture-handler.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1258510364/Pickkup.react-native-gesture-handler.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1258510364/Pickkup.react-native-gesture-handler.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1258510364/Pickkup.react-native-gesture-handler.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1258510364/Pickkup.react-native-gesture-handler.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1258510364/Pickkup.react-native-gesture-handler.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-638559242/Pickkup.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-638559242/Pickkup.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-638559242/Pickkup.react-native-linear-gradient.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-638559242/Pickkup.react-native-linear-gradient.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-638559242/Pickkup.react-native-linear-gradient.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-638559242/Pickkup.react-native-linear-gradient.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-638559242/Pickkup.react-native-linear-gradient.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-638559242/Pickkup.react-native-linear-gradient.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/343261689/Pickkup.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/343261689/Pickkup.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/343261689/Pickkup.react-native-maps.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/343261689/Pickkup.react-native-maps.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/343261689/Pickkup.react-native-maps.main.iml" filepath="$PROJECT_DIR$/.idea/modules/343261689/Pickkup.react-native-maps.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/343261689/Pickkup.react-native-maps.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/343261689/Pickkup.react-native-maps.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1891281075/Pickkup.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1891281075/Pickkup.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1891281075/Pickkup.react-native-safe-area-context.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1891281075/Pickkup.react-native-safe-area-context.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1891281075/Pickkup.react-native-safe-area-context.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1891281075/Pickkup.react-native-safe-area-context.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1891281075/Pickkup.react-native-safe-area-context.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1891281075/Pickkup.react-native-safe-area-context.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-231079003/Pickkup.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-231079003/Pickkup.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-231079003/Pickkup.react-native-screens.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-231079003/Pickkup.react-native-screens.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-231079003/Pickkup.react-native-screens.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-231079003/Pickkup.react-native-screens.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-231079003/Pickkup.react-native-screens.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-231079003/Pickkup.react-native-screens.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-158300803/Pickkup.react-native-share.iml" filepath="$PROJECT_DIR$/.idea/modules/-158300803/Pickkup.react-native-share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-158300803/Pickkup.react-native-share.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-158300803/Pickkup.react-native-share.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-158300803/Pickkup.react-native-share.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-158300803/Pickkup.react-native-share.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-158300803/Pickkup.react-native-share.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-158300803/Pickkup.react-native-share.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1139966768/Pickkup.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/1139966768/Pickkup.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1139966768/Pickkup.react-native-splash-screen.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1139966768/Pickkup.react-native-splash-screen.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1139966768/Pickkup.react-native-splash-screen.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1139966768/Pickkup.react-native-splash-screen.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1139966768/Pickkup.react-native-splash-screen.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1139966768/Pickkup.react-native-splash-screen.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1165743746/Pickkup.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/1165743746/Pickkup.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1165743746/Pickkup.react-native-svg.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1165743746/Pickkup.react-native-svg.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1165743746/Pickkup.react-native-svg.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1165743746/Pickkup.react-native-svg.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1165743746/Pickkup.react-native-svg.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1165743746/Pickkup.react-native-svg.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-626976142/Pickkup.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-626976142/Pickkup.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-626976142/Pickkup.react-native-vector-icons.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-626976142/Pickkup.react-native-vector-icons.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-626976142/Pickkup.react-native-vector-icons.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-626976142/Pickkup.react-native-vector-icons.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-626976142/Pickkup.react-native-vector-icons.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-626976142/Pickkup.react-native-vector-icons.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-171007817/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-171007817/react-native-gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-171007817/react-native-gradle-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-171007817/react-native-gradle-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-171007817/react-native-gradle-plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/-171007817/react-native-gradle-plugin.test.iml" />
+    </modules>
+  </component>
+</project>
